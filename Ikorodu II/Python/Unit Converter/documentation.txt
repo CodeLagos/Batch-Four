@@ -1,0 +1,6 @@
+Readme: 
+The Unit Coverter converts the units of various parameters.
+A user need to first select the parameter(Length, Temperature and Currency) from which they want to convert, under each parameters are different units to convert from and to.
+The user also have to enter the unit they want to convert, one at a time.
+After entering the user the user then enters the value and the result is printed to user in 2decimal places.
+After each computation the program provides option for user to either convert another unit by entering "1" to continue or end the program by entering any other value.
