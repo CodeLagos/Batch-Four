@@ -1,0 +1,23 @@
+Anambra State consists of twenty-one (21) Local Government Areas. They are:
+    Aguata
+    Awka North
+    Awka South
+    Anambra East
+    Anambra West
+    Anaocha
+    Ayamelum
+    Dunukofia
+    Ekwusigo
+    Idemili North
+    Idemili South
+    Ihiala
+    Njikoka
+    Nnewi North
+    Nnewi South
+    Ogbaru
+    Onitsha North
+    Onitsha South
+    Orumba North
+    Orumba South
+    Oyi
+

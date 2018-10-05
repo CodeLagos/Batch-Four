@@ -1,0 +1,23 @@
+Adamawa State consists of twenty-one Local Government Areas (LGAs):
+    Demsa
+    Fufore
+    Ganye
+    Girei
+    Gombi
+    Guyuk
+    Hong
+    Jada
+    Lamurde
+    Madagali
+    Maiha
+    Mayo-Belwa
+    Michika
+    Mubi North
+    Mubi South
+    Numan
+    Shelleng
+    Song
+    Toungo
+    Yola North (State capital)
+    Yola South
+

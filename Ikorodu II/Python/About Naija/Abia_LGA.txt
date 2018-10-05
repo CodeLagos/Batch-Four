@@ -1,0 +1,19 @@
+Abia State consists of seventeen (17) Local Government Areas. They are:
+    Aba North
+    Aba South
+    Arochukwu
+    Bende
+    Ikwuano
+    Isiala Ngwa North
+    Isiala Ngwa South
+    Isuikwuato
+    Obi Ngwa
+    Ohafia
+    Osisioma Ngwa
+    Ugwunagbo
+    Ukwa East
+    Ukwa West
+    Umuahia North
+    Umuahia South
+    Umu Nneochi
+
