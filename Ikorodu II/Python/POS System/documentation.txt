@@ -1,0 +1,11 @@
+Readme
+Bee's Pay which is almost the same with the POS system is the spot where your customer makes the payment for goods or services that are offered by your company.
+Bee's Pay program enables the business transaction between the client and the company to be completed. 
+Bee's Pay  is a combination of software and hardware that allows merchants to take transactions and simplify key day-to-day business operations.
+It has full service feature too so you can sync all data from waiters, chef, and cashier. The main purpose of a point of sale system is to replace the cash register.
+HOW IT WORKS 
+The Bee's Pay  code I created has a different features from the regular ones. For example. You went to a supermarket to get groceries,You've gotten all what u need, in fact in the process you ate out of the goods you have with you since you will be paying for it. You got to the cashier, took ur wallet out to give your atm card  and then....... You realised You are not with it , what will you do...
+It's simple, Give the cashier the last four digit on your card. When it is inputted it automatically bring out the   your Account Full name since it is registered with the bank. Then you will be able to transfer the cash to cashier to save embarrassment and time.
+And for those who doesn't know the last four digit on their card. You can just give your Account number to the cashier, when it's inputted your name is shown on the system since you have registered your Account with any bank you are using and then you are free to login to your Account using your pin number and then you input the amount requested by the cashier which will be debited from your Account. 
+BENEFITS 
+With Bee's Pay program, you’ll see benefits in every area of your business, not just at the checkout. It saves time and is even more efficient compare to the normal device e.g The POS. And since we are in the age of computer. More devices are created to make things easier and faster.
