@@ -1,0 +1,81 @@
+Documentary of my Project:
+
+It is titled  Calculation of local time:
+
+It is a geographical calculation of location, time, day taking into cognisance the imaginary lines that run all through the globe
+which are called Longitude and latitude lines. They cannot be seen but geographically, they are used to determine theTime zones
+locations, and day.
+
+Together, they form the Earth’s geographical coordinates, and represent the angular distance of any location from the center
+of the Earth. Both latitudes and longitudes are measured in degrees (°) and minutes (′).
+
+The Earth is, almost, but not quite, a sphere that rotates around its axis. Scientists call this shape a spheroid or ellipsoid. 
+If we draw a line passing through the center of the Earth along its rotational axis, the line would pass through the North and 
+the South Pole.
+
+The Equator is an imaginary line perpendicular to this axis. It is equidistant from the North and South Poles, and divides the 
+globe into the Northern Hemisphere and the Southern Hemisphere.
+
+Most locations on the Equator experience consistently high temperatures throughout the year. They also experience at least 12 
+hours of daylight every day during the year. On the Equinoxes – September and March – the sun is directly overhead the Equator, 
+resulting in almost exactly 12 hour days and 12 hour nights.
+
+The Equator passes through 14 countries, including Uganda, Kenya, Somalia, Indonesia, Ecuador, Colombia, and Brazil.
+
+Why do seasons occur?
+
+Imaginary Circles
+Often called parallels or circles of latitude, latitudes are imaginary circles parallel to the Equator. They are named after the 
+angle created by a line connecting the latitude and the center of the Earth, and the line connecting the Equator and the center of the Earth.
+
+Latitudes specify the north-south position of a location on the globe. Locations in the Northern Hemisphere are identified by northern 
+latitudes and are assigned a suffix of N for north. Southern Hemisphere locations, on the other hand, are on southern latitudes and are 
+
+assigned a suffix of S for south.
+
+Find celestial objects in the sky
+
+Notable Latitudes
+The Equator represents 0° latitude, while the North and South Poles represent 90° North and 90° South latitudes. In addition to the Equator, 
+there are four other major latitudes that are usually found on maps and globes. The positions of these latitudes are determined by the Earth's axial tilt.
+
+The Arctic Circle is the latitude 66° 34′ North. All locations falling North of this latitude are said to be in the Arctic Circle.
+
+The Antarctic Circle on the other hand, is the latitude 66° 34′ south. Any locations falling south of this latitude are said to be in the Antarctic Circle.
+Places in both the Arctic and Antarctic circles experience extreme weather, and experience the Midnight Sun.
+
+The latitude 23° 26′ North is also known as the Tropic of Cancer. It marks the northern-most position on the Earth, where the Sun is directly 
+overhead at least once a year. This happens during the June Solstice, when the Earth’s Northern Hemisphere is tilted towards the Sun.
+
+The Tropic of Capricorn is the latitude that lies at 23° 26′ South of the Equator. It is the southern-most position on the globe, where the 
+sun is directly overhead during the December Solstice.
+
+Sometimes, latitudes north of the Equator are denoted by a positive sign. Latitudes south of the Equator are given negative values. This eliminates 
+the need to add whether the specified latitude is north or south of the Equator.
+
+East-West Locations
+Longitudes are geographical positioning markers that run from the geographical North Pole to the geographical South Pole, intersecting the Equator. 
+They meet at both Poles, and specify the east-west position of a location.
+
+Longitudes are therefore imaginary circles that intersect the North and South Poles, and the Equator. Half of a longitudinal circle is known as a Meridian.
+ Meridians are perpendicular to every latitude.
+
+Unlike, latitudes, there is no obvious central longitude. However, in order to measure the position of a location based on the longitude, cartographers and 
+geographers over the course of history have designated different locations as the main longitudinal reference point. Today, the meridian line through Greenwich, 
+England is considered as the reference point for longitudes. This line is also known as the Prime Meridian.
+
+The Prime Meridian is set as 0° longitude and it divides the Earth into the Eastern and the Western Hemisphere. All the other longitudes are measured, and named 
+after the angle they make with respect to the center of the Earth from the intersection of the Meridian and the Equator.
+
+Since a sphere has 360 degrees, the Earth is divided into 360 longitudes. The meridian opposite the Prime Meridian (on the other side of the Earth) is the 180° 
+longitude and is known as the anti meridian.
+
+Modern timekeeping systems use longitudes as references to keep time. Time zones are defined by the Prime Meridian and the longitudes.
+
+Thank you.
+
+regards
+
+Abimbola Ayodeji Ilori
+Codelagos-Igbogbo Lagos
+Python Programming Class
