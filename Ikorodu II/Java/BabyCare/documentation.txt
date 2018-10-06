@@ -1,0 +1,11 @@
+Objective of the project
+A software product which provides solution for baby health, baby food,
+baby tips, baby products, baby names, parenting etc. The user can view
+baby names, by religion, baby tips, baby food and baby products.
+The Admin can add and delete baby names,
+The user of the system
+The Admin
+The User.
+Am sending the codes as attachment.Thanks very much in Anticipation.
+Odesanya Olayinka
+08024509606
