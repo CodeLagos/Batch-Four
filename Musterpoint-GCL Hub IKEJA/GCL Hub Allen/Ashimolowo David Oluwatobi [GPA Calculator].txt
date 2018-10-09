@@ -1,0 +1,45 @@
+print("Name: Ashimolowo David Oluwatobi\nCentre: GCL Hub \nemail:ashimolowo@gmail.com \nFacilitator's Name: Mr. Dotun \nProject Name: GPA/CGPA Calculator\n")
+gradeFactor = {'A':5, 'B': 4, 'C':3, 'D':2, 'E':1, 'F':0} 
+todo = int(input("How many students GPA's would you like to calculate? "))
+carry_over = []
+
+
+while todo:
+    m_n = str(input("Enter matric number: ")).upper()
+    name = str(input("Enter name: ")).capitalize()
+    n = int(input("input number of courses: "))
+    ptcp = int(input("enter previuos tcp: "))
+    ptnu = int(input("enter previuos tnu: "))
+    tcp = 0
+    tnu = 0
+
+
+    while n:
+        course_code = input("Enter course code: ").upper()
+        grade = input("Enter grade for course: " ).upper()
+        units = int(input("How many units is the course? "))
+        tnu += units
+        points = gradeFactor[grade]*units
+        tcp += points
+        n -= 1
+        if points == gradeFactor.get('F'):
+            carry_over.append (course_code)
+
+    gpa = round(float(tcp / tnu),2)
+    ctcp = tcp + ptcp
+    ctnu = tnu + ptnu
+    cgpa = round(float(ctcp / ctnu),2)
+    print(" ")
+    print("GPA is {}" . format(gpa))
+    print("total points = ", tcp)
+    print("total units = ", tnu)
+    print (" ")
+    print ("Cumulative total credit points = {}". format(ctcp))
+    print ("Cumulative total number of units = {}". format(ctnu))
+    #print("CGPA is {}".format(cgpa))
+    print("Dear {}({}), your GPA is {} and your CGPA is {}".format(name, m_n, gpa, cgpa))
+    print(" ")
+    print("Outstanding Courses are {} ".format(carry_over))
+    todo -= 1
+
+    root.mainloop

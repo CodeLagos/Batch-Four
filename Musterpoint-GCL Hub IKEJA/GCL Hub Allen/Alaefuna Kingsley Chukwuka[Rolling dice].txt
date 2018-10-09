@@ -1,0 +1,14 @@
+import random
+#Name:Alaefuna Kingsley Chukwuka
+#Email:chukakingsley66@gmail.com
+#Facilitator_Name:Mr. Dotun Onasanya
+#Objective:The objective of this program is to print out the outcomes of the dice when rolled
+min=1
+max=6
+roll='y'
+while roll=='y':
+    print ('Dice rolling..')
+    print ('The outcome values are..')
+    print ('Die1:',random.randint(min,max))
+    print ('Die2:',random.randint(min,max))
+    roll=input('Roll the dice again click (y)..')
