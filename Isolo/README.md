@@ -1,12 +1,12 @@
-#ABOUT
+# ABOUT
 This file contains the links to the websites developed by participants in
 the [CodeLagos](https://codelagos.org/) out of shool program
 
-##Learning Facilitator:
+## Learning Facilitator:
 [Ulor Pascal](https://pascalulor.github.io/portfolio/UI/)
 Center: Isolo
 
-##Students Project Links:
+## Students Project Links:
 1. [Sydney Chizoba Duru](https://sidex-wears.000webhostapp.com/)
 2. [Seun Martins](http://martinsoluwaseun010.000webhostapp.com/)
 3. [Oluwatobi Oyebade](http://amiableoutfits.000webhostapp.com/)
