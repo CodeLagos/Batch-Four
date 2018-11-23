@@ -8,7 +8,7 @@ the [CodeLagos](https://codelagos.org/) out of shool program
 
 ## Students Project Links:
 1. [Sydney Chizoba Duru](https://sidex-wears.000webhostapp.com/)
-2. [Seun Martins](http://martinsoluwaseun010.000webhostapp.com/)
+2. [Seun Martins](http://martinsobayomi010.000webhostapp.com/)
 3. [Oluwatobi Oyebade](http://amiableoutfits.000webhostapp.com/)
 4. [Godspower Mario](http://gpconsult.000webhostapp.com/)
 5. [Abayomi Quadri](http://wwwjamfedcollegecom.000webhostapp.com/)
