@@ -1,6 +1,6 @@
 #ABOUT
 This file contains the links to the websites developed by participants in
-the [codelagos](https://codelagos.org/) out of shool program
+the [CodeLagos](https://codelagos.org/) out of shool program
 
 ##Learning Facilitator:
 [Ulor Pascal](https://pascalulor.github.io/portfolio/UI/)
