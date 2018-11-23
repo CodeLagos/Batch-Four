@@ -4,7 +4,7 @@ the [CodeLagos](https://codelagos.org/) out of shool program
 
 ## Learning Facilitator:
 [Ulor Pascal](https://pascalulor.github.io/portfolio/UI/)
-Center: Isolo
+## Center: Isolo
 
 ## Students Project Links:
 1. [Sydney Chizoba Duru](https://sidex-wears.000webhostapp.com/)
