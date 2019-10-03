@@ -1,4 +1,4 @@
-#ojuade kazeem
+#ojuade kazeem, Simple calculator
 import math
 print("WELCOME TO MY CALCULATOR I WISH YOU ENJOY USING THIS PROGRAM")
 print("PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE USING THE PROGRAM")
